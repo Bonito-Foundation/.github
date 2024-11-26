@@ -5,7 +5,7 @@ Bonito Foundation is a non-profit organization, empowering people and organizati
 Swedish non-profit organization number:
 802482-6136
 
-https://bonito.football
+https://bonito.football  
 https://linkedin.com/company/bonito-foundation
 
 ## Let’s play!
