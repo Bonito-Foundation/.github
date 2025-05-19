@@ -2,6 +2,8 @@
 
 Bonito Foundation is a non-profit organization, empowering people and organizations who use football to do good.
 
+We were registered in November 2024, and in 2025, we'll take our first steps on the pitch.
+
 Swedish non-profit organization number:
 802482-6136
 
@@ -42,15 +44,17 @@ We provide online and in-person spaces for people in football to meet, build rel
 
 ### Game Model — Principle 2: Support
 
-We build platforms that enable us to provide our support to people and organizations in the Football For Good sector. By helping tell their stories, we make them better.
+We build platforms that enable us to support people and organizations in the Football For Good sector. By helping them tell their stories, we make them better.
 
 ### Game Model — Principle 3: Coach
 
-As football for good coaches, we educate, train, and direct those involved in the entire football sector.
+As advocates for football as a force for good, we improve and inspire parents, coaches, players, and everyone involved in the beautiful game.
+
+Through education, training, and guidance, focusing on mental health using concepts such as Emotional Intelligence and Social Emotional Learning, we’ll foster a positive and supportive environment that enhances the football experience for all!
 
 ### Game Model — Principle 4: Play
 
-Football must be played! We will carry out football activities, such as camps, matches, and tournaments, organized by ourselves or by teaming up with others.
+We’ll organize football activities, such as camps, matches, and tournaments, either ourselves or in collaboration with others.
 
 ## Global Goals
 
@@ -75,3 +79,18 @@ Our commitment to the S4D sector contributes to the following Global Goals:
 ## Human Rights Based Approach (HRBA)
 
 All our operations comply with The United Nations Convention on the Rights of the Child, and we promote the inclusion of safeguarding practices with all partners and activities.
+
+## Partners and Collaborators
+
+Some of our partnerships and collaborations include:
+
+International Olympic Committee (IOC)
+https://go.bonito.football/olympism365
+
+European Football Development Network
+https://go.bonito.football/efdn
+
+Common Goal, Elitfotboll Dam (EFD), Futbol Más, ECOS
+https://bonito.football/posts/2025-03-10-bonito-updates
+
+…and more are coming up in 2025.
